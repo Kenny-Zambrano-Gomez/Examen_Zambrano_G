@@ -13,7 +13,7 @@ body {
 }
 
 body.dark-mode {
-  background: url('file:///C:/xampp/htdocs/EXAMEN_ZAMBRANO_GOMEZ_KENNY/img/fondo.png');
+  background: url('/img/fondo.png');
   color: #fff;
 }
 
